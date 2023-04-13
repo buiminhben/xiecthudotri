@@ -1,0 +1,22 @@
+img {
+    width: 100px;
+}
+.thu {
+    float: left;
+    margin:30px;
+    border: 1px solid green;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(131, 235, 131);
+}
+
+#thongtin {
+    display: flex;
+    margin-left: 1000px;
+   
+    font-size: 2em;
+    font-weight: bold;
+}
+#slthu {
+    margin-right: 30px;
+}
